@@ -39,3 +39,4 @@ class RecipesController < ApplicationController
     params.require(:recipe).permit(:name, :description, :public, :preparation_time, :cooking_time)
   end
 end
+
