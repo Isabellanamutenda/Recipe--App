@@ -30,3 +30,4 @@ RSpec.describe RecipeFood, type: :model do
     end
   end
 end
+
