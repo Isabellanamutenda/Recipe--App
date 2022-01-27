@@ -12,3 +12,4 @@ class ShoppingListController < ApplicationController
   end
 end
 
+
