@@ -45,4 +45,3 @@ RSpec.describe Food, type: :model do
     end
   end
 end
-

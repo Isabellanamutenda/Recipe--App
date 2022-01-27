@@ -63,4 +63,3 @@ RSpec.describe Recipe, type: :model do
     end
   end
 end
-
